@@ -7,3 +7,11 @@
 4. Any dead cell with exactly three live neighbors comes to life.
 
  The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.
+
+# Screenshots of the Project
+
+![Screenshot (152)](https://user-images.githubusercontent.com/84495822/133319105-bd758014-5dd8-4c07-a2d9-c0acf285b2b9.png)
+
+![Screenshot (153)](https://user-images.githubusercontent.com/84495822/133319156-1ef89c74-9f9b-4c28-a055-cde6f763e52c.png)
+
+![Screenshot (154)](https://user-images.githubusercontent.com/84495822/133319186-4ee6e47d-e6bc-477c-99bc-2563d0835fba.png)
